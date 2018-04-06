@@ -2,9 +2,7 @@
 
 ### Description 
 
-Relaxr was really impressed by your work last week and wants you to continue development on their landing page. Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. Once again, the designers have handed you a basic [design file with instructions](design_file.txt) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
-
-![Relaxr Blog](images/relaxr_blog.jpg)
+Relaxr was really impressed by your work last week and wants you to continue development on their landing page. Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. Once again, the designers have handed you a basic [design file with instructions](design_file.txt) and the [JPEG](images/relaxr_blog.jpg) below to help you bring the blog to life. Submit the finished version for homework.
 
 <br>
 
